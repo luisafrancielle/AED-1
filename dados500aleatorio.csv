@@ -1,0 +1,501 @@
+ID;nome;profissao;idade
+433;Abbey;Inspector;14
+495;Abdul;Laboratory Technician;52
+364;Abdul;Executive Director;30
+206;Adalie;Physician;40
+96;Adalie;Machine Operator;26
+279;Adela;Food Technologist;48
+465;Aiden;Baker;58
+258;Aiden;Banker;57
+439;Aileen;Biologist;61
+140;Alan;Operator;31
+75;Alan;Global Logistics Supervisor;26
+43;Alan;Baker;12
+74;Alba;Staffing Consultant;58
+243;Alessandra;Laboratory Technician;51
+64;Alessandra;Machine Operator;49
+400;Alessia;Bellman;25
+59;Alexa;Production Painter;12
+363;Alexander;Executive Director;12
+316;Alexander;Call Center Representative;26
+290;Alexander;Production Painter;59
+154;Alexander;Healthcare Specialist;46
+138;Alexander;Web Developer;11
+46;Alexander;Pharmacist;69
+8;Alexander;Operator;48
+484;Alexia;Inspector;51
+404;Alice;Banker;24
+235;Alice;Design Engineer;51
+124;Alice;Banker;65
+348;Alison;Paramedic;21
+13;Alison;Mobile Developer;36
+208;Allison;Mobile Developer;49
+381;Ally;Project Manager;38
+56;Ally;Business Broker;67
+440;Alma;Stockbroker;42
+402;Amelia;Executive Director;13
+80;Amelia;Physician;38
+54;Anabel;Audiologist;57
+205;Analise;Bookkeeper;65
+25;Analise;Lecturer;35
+238;Angela;Physician;11
+85;Angelica;Auditor;28
+14;Angelica;Baker;46
+466;Angelina;Assistant Buyer;61
+170;Angelique;Health Educator;11
+461;Anne;Physician;51
+499;Anthony;Treasurer;33
+422;Anthony;Business Broker;31
+417;Anthony;Biologist;64
+355;Anthony;Webmaster;62
+296;Anthony;Call Center Representative;33
+23;Anthony;Service Supervisor;49
+329;Aurelia;Executive Director;23
+262;Aurelia;Service Supervisor;65
+349;Barney;Cook;22
+322;Barney;Banker;28
+272;Barney;Cook;40
+165;Barney;Retail Trainee;56
+164;Barney;Baker;37
+489;Barry;Production Painter;50
+409;Barry;Ambulatory Nurse;62
+233;Barry;Bellman;22
+57;Barry;Chef Manager;41
+398;Bart;Cook;36
+229;Bart;Budget Analyst;43
+143;Bart;CNC Operator;27
+192;Belinda;Lecturer;60
+34;Benjamin;HR Coordinator;46
+459;Benny;Insurance Broker;64
+288;Benny;Operator;20
+393;Bernadette;Global Logistics Supervisor;39
+473;Bob;Cashier;30
+2;Bob;Inspector;20
+429;Boris;Baker;37
+412;Boris;Accountant;30
+392;Boris;Machine Operator;57
+89;Brad;Bellman;63
+251;Bristol;Bellman;48
+252;Bryce;Physician;21
+149;Bryce;Business Broker;32
+415;Bryon;Budget Analyst;30
+353;Bryon;Dentist;67
+218;Cadence;Mobile Developer;49
+430;Caitlyn;Insurance Broker;46
+385;Caleb;Healthcare Specialist;13
+369;Caleb;Software Engineer;54
+337;Callie;Global Logistics Supervisor;33
+445;Camden;Ambulatory Nurse;25
+199;Camila;Stockbroker;14
+60;Camila;Chef Manager;48
+281;Cara;Call Center Representative;17
+94;Cara;Banker;61
+406;Carina;Global Logistics Supervisor;32
+51;Carina;Doctor;43
+271;Carissa;Electrician;27
+265;Carl;Chef Manager;10
+110;Carl;Baker;11
+49;Carl;Clerk;26
+227;Carrie;Software Engineer;20
+483;Carter;IT Support Staff;22
+411;Carter;Associate Professor;19
+362;Carter;Service Supervisor;19
+195;Carter;Web Developer;18
+12;Cassidy;Call Center Representative;40
+190;Catherine;Global Logistics Supervisor;28
+202;Cecilia;Accountant;67
+127;Cedrick;Stockbroker;66
+314;Chad;Operator;12
+482;Chadwick;CNC Operator;42
+421;Chadwick;Bellman;34
+388;Chadwick;Bellman;41
+365;Chadwick;Bookkeeper;15
+250;Chadwick;Food Technologist;67
+231;Chadwick;IT Support Staff;24
+47;Chadwick;Webmaster;13
+387;Chloe;Baker;17
+434;Chris;Assistant Buyer;42
+359;Chris;Inspector;56
+186;Chris;Production Painter;17
+68;Christine;Designer;45
+339;Christy;Baker;69
+167;Chuck;Stockbroker;47
+6;Claire;Investment  Advisor;26
+474;Clint;Fabricator;48
+477;Cristal;Bookkeeper;27
+423;Crystal;Bellman;65
+109;Crystal;Doctor;25
+55;Cynthia;Paramedic;28
+408;Daniel;Accountant;49
+311;Daniel;Insurance Broker;33
+90;Daniel;Accountant;55
+176;Danny;Investment  Advisor;37
+150;Danny;IT Support Staff;53
+493;Daphne;HR Coordinator;20
+342;Daria;Retail Trainee;23
+29;Daron;Stockbroker;51
+7;Daron;Electrician;55
+360;David;Paramedic;69
+215;David;HR Specialist;44
+27;David;CNC Operator;46
+424;Deborah;Investment  Advisor;19
+488;Denis;Investment  Advisor;12
+184;Denis;Doctor;12
+470;Denny;Treasurer;20
+133;Denny;Production Painter;28
+384;Destiny;Bookkeeper;39
+350;Domenic;Call Center Representative;50
+480;Doug;Webmaster;42
+396;Doug;Steward;11
+278;Doug;Designer;62
+414;Drew;Webmaster;21
+53;Eden;CNC Operator;16
+171;Eduardo;Biologist;33
+160;Eduardo;Audiologist;25
+479;Elijah;Service Supervisor;27
+261;Elijah;Mobile Developer;12
+210;Elijah;Pharmacist;69
+153;Elijah;Cash Manager;54
+142;Elijah;Paramedic;23
+67;Elijah;Accountant;38
+92;Elle;Fabricator;45
+287;Ema;Doctor;34
+37;Ema;Baker;48
+97;Emely;Audiologist;16
+188;Emerald;Associate Professor;51
+331;Emma;Webmaster;15
+326;Emma;Clerk;45
+344;Emmanuelle;Investment  Advisor;12
+305;Enoch;Accountant;36
+63;Enoch;Web Developer;40
+351;Erica;Design Engineer;27
+438;Erick;Audiologist;22
+368;Erin;Lecturer;34
+335;Eryn;Staffing Consultant;51
+478;Ethan;Health Educator;23
+223;Ethan;Biologist;31
+179;Ethan;Project Manager;26
+132;Ethan;Mobile Developer;53
+356;Eve;Web Developer;69
+458;Evelynn;Doctor;55
+391;Evelynn;Inspector;39
+66;Evie;Bellman;32
+426;Faith;Investment  Advisor;61
+285;Faith;Dentist;56
+382;Felicity;Steward;28
+4;Fiona;Baker;54
+45;Florence;IT Support Staff;29
+197;Francesca;Health Educator;49
+226;Fred;Chef Manager;61
+500;Gabriel;Project Manager;64
+18;Gabriel;Insurance Broker;35
+3;Gabriel;IT Support Staff;14
+116;Gemma;Global Logistics Supervisor;60
+454;George;HR Specialist;43
+187;George;Banker;43
+50;Georgia;Clerk;23
+354;Gil;Laboratory Technician;51
+119;Gil;Healthcare Specialist;51
+26;Gil;Operator;55
+168;Gina;Auditor;31
+304;Gladys;Electrician;40
+410;Grace;Ambulatory Nurse;14
+307;Gwenyth;Healthcare Specialist;42
+284;Hadley;Machine Operator;55
+156;Hadley;Bellman;66
+240;Hank;Systems Administrator;15
+232;Hank;IT Support Staff;51
+158;Hanna;Pharmacist;28
+361;Harmony;Steward;51
+249;Harmony;Clerk;15
+496;Harry;HR Coordinator;55
+413;Harry;Treasurer;32
+375;Harvey;Ambulatory Nurse;36
+280;Hayden;Systems Administrator;55
+257;Hayden;Project Manager;27
+219;Hayden;Operator;67
+87;Helen;Clerk;47
+418;Henry;Food Technologist;45
+389;Henry;Cook;54
+157;Henry;Executive Director;18
+130;Henry;Physician;43
+91;Henry;Stockbroker;17
+341;Irene;Cash Manager;46
+125;Iris;Fabricator;29
+135;Isabel;Fabricator;38
+297;Ivy;Healthcare Specialist;12
+198;Jack;Ambulatory Nurse;11
+178;Jack;IT Support Staff;58
+98;Jack;Machine Operator;43
+425;Jacob;Lecturer;38
+144;Janelle;Dentist;57
+472;Jasmine;Machine Operator;45
+453;Javier;Staffing Consultant;11
+435;Javier;Systems Administrator;63
+180;Javier;Designer;27
+131;Javier;Bookkeeper;46
+103;Javier;Cashier;18
+83;Javier;Fabricator;23
+21;Javier;Inspector;45
+463;Jayden;Cashier;60
+245;Jayden;Bookkeeper;13
+464;Jaylene;Call Center Representative;23
+283;Jaylene;Service Supervisor;47
+276;Jessica;Inspector;24
+485;Jocelyn;Restaurant Manager;45
+31;Jocelyn;Production Painter;52
+456;John;Project Manager;19
+386;John;Banker;61
+441;Johnny;Restaurant Manager;27
+15;Johnny;Operator;39
+490;Joseph;Front Desk Coordinator;22
+302;Joseph;Ambulatory Nurse;30
+263;Joseph;HR Coordinator;60
+403;Josh;Biologist;57
+236;Joy;Retail Trainee;20
+327;Julia;Food Technologist;49
+247;Julia;Health Educator;35
+330;Julian;Lecturer;31
+123;Julianna;Executive Director;39
+345;Juliette;Restaurant Manager;15
+428;Julius;Machine Operator;25
+333;Kamila;Dentist;19
+309;Karla;Baker;51
+274;Karla;Web Developer;30
+481;Kassandra;Webmaster;25
+294;Kate;Fabricator;57
+181;Kate;Pharmacist;46
+112;Keira;Biologist;65
+11;Kenzie;Clerk;56
+193;Kieth;Production Painter;17
+107;Kieth;Auditor;38
+36;Kimberly;Insurance Broker;24
+264;Kurt;Service Supervisor;67
+253;Kurt;Cook;67
+395;Laila;Physician;26
+324;Lara;Associate Professor;37
+86;Lara;Doctor;15
+40;Leah;Lecturer;20
+476;Leroy;HR Specialist;18
+449;Leroy;Operator;58
+431;Leroy;Retail Trainee;62
+321;Leroy;CNC Operator;64
+194;Leroy;Mobile Developer;45
+65;Leroy;IT Support Staff;31
+126;Leslie;Service Supervisor;33
+214;Liam;Web Developer;10
+173;Liam;Front Desk Coordinator;46
+151;Liam;Project Manager;62
+129;Liam;Mobile Developer;16
+308;Liv;Budget Analyst;21
+303;Liv;Physician;69
+259;Logan;Systems Administrator;25
+213;Logan;Doctor;59
+209;Logan;Web Developer;25
+117;Logan;Business Broker;54
+81;Logan;CNC Operator;53
+39;Logan;Pharmacist;35
+471;Lorraine;Front Desk Coordinator;54
+161;Lucas;Designer;69
+78;Lucas;Web Developer;40
+22;Lucas;IT Support Staff;49
+79;Luke;Production Painter;11
+137;Luna;Steward;57
+136;Luna;Fabricator;34
+42;Lynn;Laboratory Technician;49
+452;Mabel;Front Desk Coordinator;54
+185;Macy;Systems Administrator;64
+134;Macy;Business Broker;39
+371;Maddison;Restaurant Manager;41
+299;Maia;Cashier;18
+118;Maia;Electrician;23
+120;Makena;Webmaster;44
+467;Mandy;Business Broker;36
+200;Mandy;Treasurer;46
+1;Mandy;Production Painter;62
+394;Manuel;Cash Manager;48
+221;Manuel;Cashier;47
+172;Manuel;HR Coordinator;59
+44;Manuel;Front Desk Coordinator;39
+295;Margaret;Physician;57
+225;Margot;Business Broker;29
+141;Margot;Stockbroker;36
+100;Margot;Operator;56
+444;Maria;Physician;37
+399;Maria;Operator;32
+95;Maria;CNC Operator;11
+401;Maribel;Assistant Buyer;17
+390;Maribel;Global Logistics Supervisor;34
+77;Maribel;Investment  Advisor;44
+448;Marigold;Design Engineer;52
+155;Marjorie;Healthcare Specialist;32
+498;Mark;Banker;48
+407;Mark;Assistant Buyer;67
+377;Mark;Inspector;31
+336;Mark;HR Specialist;12
+246;Mark;Bookkeeper;23
+182;Mark;Call Center Representative;36
+122;Mark;Staffing Consultant;67
+163;Martha;Dentist;22
+451;Martin;Software Engineer;61
+312;Marvin;Banker;10
+275;Marvin;Web Developer;69
+269;Marvin;Software Engineer;63
+99;Marvin;Cash Manager;37
+41;Marvin;Electrician;14
+376;Matt;Pharmacist;47
+169;Matt;HR Coordinator;66
+469;Matthew;Clerk;38
+447;Matthew;IT Support Staff;69
+416;Matthew;Pharmacist;61
+315;Matthew;Project Manager;65
+254;Matthew;Biologist;58
+146;Matthew;Treasurer;27
+379;Maxwell;Clerk;55
+84;Maxwell;Design Engineer;54
+61;Maxwell;Production Painter;69
+16;Maxwell;Cook;31
+347;Maya;Investment  Advisor;34
+69;Megan;CNC Operator;28
+378;Melania;Biologist;59
+30;Melania;Pharmacist;56
+370;Melinda;HR Specialist;45
+145;Melody;Electrician;10
+367;Michael;Laboratory Technician;60
+292;Michael;Chef Manager;54
+128;Michael;Cook;19
+105;Michael;Steward;55
+242;Michelle;Global Logistics Supervisor;40
+72;Mike;Inspector;40
+10;Mike;Laboratory Technician;40
+373;Miriam;Audiologist;54
+343;Molly;Budget Analyst;38
+486;Mona;Operator;55
+313;Morgan;Accountant;37
+460;Nancy;Accountant;59
+266;Natalie;Restaurant Manager;33
+9;Nate;Clerk;30
+455;Nathan;Clerk;68
+282;Nathan;Baker;10
+175;Nathan;Operator;43
+462;Nicholas;Executive Director;57
+256;Nicholas;Electrician;63
+298;Nick;Laboratory Technician;28
+291;Nick;Designer;58
+216;Nick;Cook;42
+88;Nick;Fabricator;48
+48;Nick;Fabricator;20
+320;Nicole;Business Broker;67
+166;Nicole;Budget Analyst;57
+436;Nina;HR Coordinator;10
+494;Noah;Loan Officer;45
+230;Noah;Cash Manager;48
+152;Noah;Steward;37
+323;Noemi;Mobile Developer;32
+183;Noemi;Steward;47
+33;Norah;Project Manager;51
+475;Oliver;Insurance Broker;47
+450;Oliver;Cash Manager;59
+222;Olivia;Executive Director;24
+457;Owen;Web Developer;46
+442;Owen;Healthcare Specialist;64
+270;Owen;Web Developer;18
+357;Paige;Investment  Advisor;18
+317;Parker;Doctor;11
+338;Payton;Lecturer;42
+332;Payton;Operator;15
+468;Penelope;Assistant Buyer;43
+380;Penelope;Auditor;29
+70;Penelope;Physician;13
+352;Percy;Cashier;69
+71;Percy;Operator;40
+32;Percy;Physician;60
+328;Peter;Health Educator;22
+301;Peter;Operator;18
+239;Peter;Cashier;50
+20;Peter;Project Manager;41
+212;Phillip;Clerk;60
+174;Phillip;Project Manager;42
+334;Phoebe;Project Manager;28
+286;Phoebe;Baker;69
+115;Piper;IT Support Staff;64
+318;Priscilla;Ambulatory Nurse;29
+420;Rae;Banker;59
+139;Rae;Food Technologist;27
+101;Ramon;Mobile Developer;45
+196;Rhea;Stockbroker;22
+113;Rihanna;Business Broker;10
+443;Rocco;Design Engineer;42
+419;Rocco;Accountant;59
+82;Rocco;Budget Analyst;21
+17;Rocco;Paramedic;44
+487;Roger;Software Engineer;32
+114;Roger;Associate Professor;56
+58;Roger;Cashier;55
+191;Ron;Audiologist;62
+237;Ronald;Machine Operator;19
+220;Ronald;IT Support Staff;67
+102;Ronald;Bellman;46
+277;Rosa;Physician;17
+273;Rosa;Machine Operator;19
+76;Rosalee;Call Center Representative;27
+207;Rosie;Executive Director;61
+340;Rowan;Restaurant Manager;33
+325;Ruby;Banker;52
+224;Ruby;Budget Analyst;47
+108;Ruby;Cashier;39
+346;Russel;Ambulatory Nurse;30
+211;Russel;Call Center Representative;38
+300;Ruth;HR Coordinator;16
+19;Ruth;Software Engineer;49
+147;Ryan;Service Supervisor;51
+52;Ryan;Project Manager;28
+5;Ryan;Dentist;51
+106;Sabrina;Chef Manager;48
+260;Sage;Front Desk Coordinator;66
+255;Samantha;Steward;21
+177;Samantha;Business Broker;34
+374;Samara;Laboratory Technician;12
+267;Sara;Software Engineer;45
+217;Sara;Production Painter;61
+201;Savannah;Production Painter;47
+189;Scarlett;Staffing Consultant;57
+446;Shannon;Treasurer;56
+492;Sharon;Call Center Representative;40
+366;Shay;Biologist;26
+148;Skylar;Baker;63
+104;Sloane;Webmaster;14
+248;Sonya;Project Manager;25
+241;Stella;Inspector;59
+437;Stephanie;Mobile Developer;50
+111;Susan;Bookkeeper;10
+268;Sylvia;Mobile Developer;13
+306;Tania;Design Engineer;15
+244;Teagan;Lecturer;40
+372;Thea;Call Center Representative;13
+121;Thea;Stockbroker;50
+383;Tiffany;Business Broker;63
+24;Tiffany;Call Center Representative;60
+405;Tom;HR Coordinator;23
+159;Tom;Design Engineer;22
+73;Tom;Audiologist;31
+38;Tom;Production Painter;50
+234;Tony;Auditor;27
+319;Trisha;Fabricator;31
+204;Trisha;Banker;10
+358;Tyler;Bellman;41
+497;Tyson;Business Broker;32
+289;Tyson;Systems Administrator;25
+432;Valentina;Designer;39
+35;Valerie;Cashier;21
+310;Vera;Cashier;53
+203;Vicky;Ambulatory Nurse;53
+93;Violet;Budget Analyst;17
+162;Vivian;Accountant;55
+491;Wade;Executive Director;58
+427;Wade;Stockbroker;53
+293;Wade;Physician;15
+228;Wade;Assistant Buyer;47
+62;William;Physician;29
+397;Willow;CNC Operator;11
+28;Winnie;Assistant Buyer;10

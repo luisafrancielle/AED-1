@@ -59,6 +59,34 @@ void shellSort(Pessoa pessoas[], int cont) {
     }
 }
 
+void quickSort(Pessoa pessoas[], int esq, int dir) {
+    int i, j;
+    Pessoa pivot, temp;
+
+    if (esq < dir) {
+        i = esq;
+        j = dir;
+        pivot = pessoas[(esq + dir) / 2];
+        while (i <= j) {
+            while (pessoas[i].id < pivot.id) {
+                i++;
+            }
+            while (pessoas[j].id > pivot.id) {
+                j--;
+            }
+            if (i <= j) {
+                temp = pessoas[i];
+                pessoas[i] = pessoas[j];
+                pessoas[j] = temp;
+                i++;
+                j--;
+            }
+        }
+        quickSort(pessoas, esq, j);
+        quickSort(pessoas, i, dir);
+    }
+}
+
 int main() {
     FILE *arquivo;
     char linha[100], nome[20], profissao[50];
@@ -114,25 +142,33 @@ int main() {
     // Escolhe o metodo de ordenação
     int num;
     do{
-        printf("Digite:\n (1) Para InsertShort\n (2) Para SelectSort\n (3) Para ShellShort\n\n");
+        printf("Digite:\n (1) Para InsertShort\n (2) Para SelectSort\n (3) Para ShellShort\n (4) Para QuickShort\n\n");
         printf("Qual metodo voce deseja usar para fazer a ordenacao? \n");
         scanf("%i", &num);
         printf("\n");
-    } while (num != 1 &&  num != 2 && num != 3);
+    } while (num != 1 &&  num != 2 && num != 3 && num != 4);
 
         switch(num){
         case 1:
             start = clock();
             insertionSort(pessoas, cont);
             break;
+
         case 2:
             start = clock();
             selectionSort(pessoas, cont);
             break;
+
         case 3:
             start = clock();
             shellSort(pessoas, cont);
             break;
+
+        case 4:
+        start = clock();
+        quickSort(pessoas, 0, cont - 1);
+        break;
+
         default:
             printf("Opção invalida\n");
             break;
