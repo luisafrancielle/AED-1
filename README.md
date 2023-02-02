@@ -11,17 +11,29 @@ Metódos de organização da Disciplina Algoritmos e Estruturas de Dados 1 do cu
 
 # Metódos de Ordenação:
 
+Vantagens:
+
+Simples de implementar e compreender.<br />
+Eficiente para pequenos conjuntos de dados ou para dados já parcialmente ordenados.<br />
+Pode ser usado para ordenar uma lista à medida que é recebida, sem a necessidade de armazenar todos os dados antes de iniciar a ordenação.<br />
+
+Desvantagens:
+
+Tem complexidade de tempo O(n^2), o que o torna ineficiente para grandes conjuntos de dados.<br />
+Não é escalável, já que sua complexidade de tempo aumenta dramaticamente com o tamanho dos dados.<br />
+Pode ser bastante lento em conjuntos de dados desordenados.<br />
+
 • SHELLSORT •
 
 Vantagens:
 
-Shellsort é uma ótima opção para arquivos de tamanho moderado;
-Sua implementação é simples e requer uma quantidade de código pequena. 
+Shellsort é uma ótima opção para arquivos de tamanho moderado;<br />
+Sua implementação é simples e requer uma quantidade de código pequena.<br />
 
 Desvantagens:
 
-O tempo de execução do algoritmo é sensível à ordem inicial do arquivo;
-O método não é estável;
+O tempo de execução do algoritmo é sensível à ordem inicial do arquivo;<br />
+O método não é estável;<br />
 
 • SELECTIONSORT •
 
