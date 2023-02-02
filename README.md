@@ -11,6 +11,8 @@ Metódos de organização da Disciplina Algoritmos e Estruturas de Dados 1 do cu
 
 # Metódos de Ordenação:
 
+• InsertionSort • 
+
 Vantagens:
 
 Simples de implementar e compreender.<br />
@@ -23,7 +25,7 @@ Tem complexidade de tempo O(n^2), o que o torna ineficiente para grandes conjunt
 Não é escalável, já que sua complexidade de tempo aumenta dramaticamente com o tamanho dos dados.<br />
 Pode ser bastante lento em conjuntos de dados desordenados.<br />
 
-• SHELLSORT •
+• ShellSort •
 
 Vantagens:
 
