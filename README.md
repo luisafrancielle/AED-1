@@ -37,7 +37,7 @@ Desvantagens:
 O tempo de execução do algoritmo é sensível à ordem inicial do arquivo;<br />
 O método não é estável;<br />
 
-• SELECTIONSORT •
+• SelectIosort •
 
 Vantagens:
 
