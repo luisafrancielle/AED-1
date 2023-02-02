@@ -43,7 +43,7 @@ void selectionSort(Pessoa pessoas[], int cont) {
         pessoas[i] = temp;
     }
 }
-
+//la 
 // Função de ordenação ShellSort pelo id
 void shellSort(Pessoa pessoas[], int cont) {
     int i, j, gap;
