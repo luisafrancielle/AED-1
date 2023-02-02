@@ -27,11 +27,11 @@ O método não é estável;
 
 Vantagens:
 
-• É um dos métodos mais simples de ordenação existentes./n
-• Para arquivos com registros muito grandes e chaves pequenas, este deve ser o método a ser utilizado.
-• Com chaves do tamanho de uma palavra, este método torna se bastante interessante para arquivos pequenos.
+• É um dos métodos mais simples de ordenação existentes.<br />
+• Para arquivos com registros muito grandes e chaves pequenas, este deve ser o método a ser utilizado.<br />
+• Com chaves do tamanho de uma palavra, este método torna se bastante interessante para arquivos pequenos.<br />
 
 Desvantagens:
 
-• O fato do arquivo já estar ordenado não ajuda em nada, pois o custo continua quadrático.
-• O algoritmo não é estável, pois ele nem sempre deixa os registros com chaves iguais na mesma posição relativa.
+• O fato do arquivo já estar ordenado não ajuda em nada, pois o custo continua quadrático.<br />
+• O algoritmo não é estável, pois ele nem sempre deixa os registros com chaves iguais na mesma posição relativa.<br />
