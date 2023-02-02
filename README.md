@@ -13,12 +13,12 @@ Metódos de organização da Disciplina Algoritmos e Estruturas de Dados 1 do cu
 
 • ShellSort
 
-- Vantagens:
+Vantagens:
 
 Shellsort é uma ótima opção para arquivos de tamanho moderado;
 Sua implementação é simples e requer uma quantidade de código pequena. 
 
-- Desvantagens:
+Desvantagens:
 
 O tempo de execução do algoritmo é sensível à ordem inicial do arquivo;
 O método não é estável;
