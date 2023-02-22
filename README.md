@@ -1,6 +1,6 @@
 # Trabalho Final - Algoritmos e Estruturas de Dados
 
-Metódos de organização da Disciplina Algoritmos e Estruturas de Dados 1 do curso de Bacharelado em Inteligência Artificial.
+Metódos de ordenação da Disciplina Algoritmos e Estruturas de Dados 1 do curso de Bacharelado em Inteligência Artificial.
 
 # Etapas do projeto:
 
