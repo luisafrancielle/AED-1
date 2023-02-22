@@ -6,8 +6,8 @@ Metódos de organização da Disciplina Algoritmos e Estruturas de Dados 1 do cu
 
 - `Atividade 1`: Implementar os métodos de Ordenação Simples (InsertionSort e SelectionSort) e ShellSort;
 - `Atividade 2`: Implementar o algoritmo QuickSort;
-- `Atividade 3`: ----
-- `Atividade 4`: ----
+- `Atividade 3`: Implementar o algoritmo MergeSort;
+- `Atividade 4`: Implementar o método de busca;
 
 # Metódos de Ordenação:
 
